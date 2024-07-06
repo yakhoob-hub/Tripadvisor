@@ -4,7 +4,7 @@ This project is a clone of the popular travel review website TripAdvisor, create
 
 #Overview
 
-TripAdvisor Clone is a static web page designed to mimic the user interface and basic functionality of the TripAdvisor website. It includes:\
+TripAdvisor Clone is a static web page designed to mimic the user interface and basic functionality of the TripAdvisor website. It includes:
 
 A homepage with search functionality
 Navigation bar with links to different sections (hotels, restaurants, attractions)
@@ -17,4 +17,4 @@ FontAwesome: For icons used in navigation and other UI elements.
 
 #View
 
-Use this link to view the page
+Use this link to view the page https://yakhoob-hub.github.io/Tripadvisor/
